@@ -1,4 +1,4 @@
-# JS The Definitive Guide
+# JavaScript The Definitive Guide
 
 
 
