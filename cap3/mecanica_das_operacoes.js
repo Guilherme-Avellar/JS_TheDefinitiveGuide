@@ -14,3 +14,12 @@ console.log("1 / 0 = ", 1 / 0);
 console.log("1 / - 0 = ", 1 / - 0);
 console.log("1 / infity = ", 1 / Infinity);
 console.log("1 / - infity = ", 1 / - Infinity);
+
+// porém, não consigo fazer o numero de euler no "braço"
+
+var n = Infinity;
+console.log(Math.pow(1 + 1/n, n));
+
+// deve-se usar:
+
+Math.E;
