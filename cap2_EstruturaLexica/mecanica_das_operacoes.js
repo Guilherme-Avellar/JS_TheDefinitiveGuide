@@ -11,4 +11,6 @@ console.log("0.8 -0.7 = ", 0.8 - 0.7);
 
 console.log("\nLógica de matemática acadêmica, limites, por exemplo:");
 console.log("1 / 0 = ", 1 / 0);
+console.log("1 / - 0 = ", 1 / - 0);
 console.log("1 / infity = ", 1 / Infinity);
+console.log("1 / - infity = ", 1 / - Infinity);
