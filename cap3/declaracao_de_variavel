@@ -1,0 +1,20 @@
+
+
+// Antes de se usar uma variavel em JS vc deve declara-la (diferente do python), usa-se a palavra-chave var
+// exemplo:
+var i;
+
+// É possivel declarar varias variaveis com a mesma palavra-chave var
+
+var i, j, k, guilherme;
+
+// Também é possível declara-la com sua inicialização
+
+var a = "abacate", b = "b", c = 14, guilherme = 10;
+
+// Como em outras linguagens é possivel declarar as variaveis em laços
+
+for(var i = 0, j = 1; i < 10; i ++, j--) {
+    console.log(i);
+    console.log(j);
+}
